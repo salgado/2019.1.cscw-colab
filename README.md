@@ -1,2 +1,12 @@
+
 # 2019.1.cscw-colab
-# Este é um teste de commit por André
+# GIT ADD < NOME ARQUIVO>
+# GIT COMMIT -M "ALTERAÇÃO QUE EU QUERO QUE SEJA"
+# GIT PUSH
+# CHEGUEEEEEEEEEEEEEEEEEEI
+# Assassin's Creed Unity de Graça na Uplay
+# ( ͡° ͜ʖ ͡°)
+# 2019.1.cscw-colab
+# Teste Renato
+# O Teste do Renato eu não apaguei por puro respeito! 
+
