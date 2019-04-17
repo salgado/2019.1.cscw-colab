@@ -4,7 +4,6 @@
 # GIT COMMIT -M "ALTERAÇÃO QUE EU QUERO QUE SEJA"
 # GIT PUSH
 # CHEGUEEEEEEEEEEEEEEEEEEI
-# Assassin's Creed Unity de Graça na Uplay
 # ( ͡° ͜ʖ ͡°)
 # 2019.1.cscw-colab
 # Teste Renato
